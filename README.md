@@ -1,2 +1,1 @@
-# Prep-couse-henry
-repositorio prueba
+Este proyecto es una prueba para crear un repo y clonarlo de manera local
